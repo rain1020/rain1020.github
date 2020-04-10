@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: collapse;
+}
+a {
+  /* text-decoration-style: none; */
+  text-decoration: none;
+}
+input {
+  border: none;
+  outline: none;
+}
+.w {
+  width: 1220px;
+  margin: auto;
+}
+body {
+  height: 5000px;
+}

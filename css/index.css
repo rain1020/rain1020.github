@@ -1,0 +1,37 @@
+.top {
+  height: 31px;
+  background-color: #666;
+}
+.top .conter {
+  height: 31px;
+}
+.top .conter .sign {
+  height: 31px;
+  background-color: yellow;
+  line-height: 31px;
+  font-size: 14px;
+  float: left;
+}
+.top .conter .sign a {
+  padding-left: 10px;
+  color: red;
+}
+.top .conter ul {
+  float: right;
+}
+.top .conter ul li {
+  float: left;
+  height: 31px;
+  background-color: skyblue;
+  line-height: 31px;
+  font-size: 12px;
+}
+.top .conter ul li a {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #666;
+}
+
+.search {
+  height: ;
+}
