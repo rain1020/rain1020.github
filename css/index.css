@@ -1,37 +1,75 @@
-.top {
-  height: 31px;
-  background-color: #666;
-}
-.top .conter {
-  height: 31px;
-}
-.top .conter .sign {
+.sign {
   height: 31px;
   background-color: yellow;
   line-height: 31px;
+  color: black;
   font-size: 14px;
-  float: left;
 }
-.top .conter .sign a {
+.sign a {
   padding-left: 10px;
   color: red;
 }
-.top .conter ul {
-  float: right;
-}
-.top .conter ul li {
-  float: left;
-  height: 31px;
-  background-color: skyblue;
-  line-height: 31px;
-  font-size: 12px;
-}
-.top .conter ul li a {
-  padding-left: 10px;
-  padding-right: 10px;
-  color: #666;
-}
 
 .search {
+}
+.search input[type="text"] {
+  width: 100px;
+  height: 40px;
+  border: 1px solid red;
+  padding-left: 10px;
+  vertical-align: top;
+  font-size: 14px;
+  color: black;
+}
+.search input[type="button"] {
+  width: 60px;
+  height: 40px;
+  background-color: red;
+  color: #ffffff;
+}
+
+.cart {
+  width: 140px;
+  height: 36px;
+  background-color: #f6f6f6;
+  border: 1px solid #dbdbdb;
+  line-height: 36px;
+  text-align: center;
+  color: black;
+}
+.all {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  line-height: 200px;
+  text-align: center;
+  color: #dbdbdb;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  background-image: url(../imges/iphone.png);
+}
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  text-align: center;
+}
+.item img {
+  margin-top: 20px;
+}
+.item p {
+  margin-top: 20px;
+  color: aqua;
+}
+.like {
   height: ;
+  background-color: #fff;
+  color: ;
+}
+.like a {
+  float: left;
+  margin-right: ;
+  color: ;
 }
